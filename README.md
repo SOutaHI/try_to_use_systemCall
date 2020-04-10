@@ -7,3 +7,6 @@ https://www.amazon.co.jp/%E4%BE%8B%E8%A7%A3UNIX-Linux%E3%83%97%E3%83%AD%E3%82%B0
 
 ISBN-10: 4274222101
 ISBN-13: 978-4274222108
+
+repository of the book
+https://github.com/kazutomi/reikai-unix-code-samples
