@@ -1,0 +1,15 @@
+total 0
+drwxrwxrwx 1 souta souta 4096 Apr 15 21:53 ./
+drwxrwxrwx 1 souta souta 4096 Apr 15 21:17 ../
+-rwxrwxrwx 1 souta souta   10 Apr 15 21:52 a.c*
+-rwxrwxrwx 1 souta souta   10 Apr 15 21:52 a_orig.c*
+-rwxrwxrwx 1 souta souta    0 Apr 15 22:00 aaa.txt*
+-rwxrwxrwx 1 souta souta  128 Apr 15 21:51 backup.sh*
+-rwxrwxrwx 1 souta souta    0 Apr 15 21:20 bbb*
+-rwxrwxrwx 1 souta souta  729 Apr 15 22:00 bbb.txt*
+-rwxrwxrwx 1 souta souta  110 Apr 15 21:57 birth.sh*
+-rwxrwxrwx 1 souta souta    6 Apr 15 21:41 ccc.txt*
+-rwxrwxrwx 1 souta souta   56 Apr 15 21:33 echo.sh*
+-rwxrwxrwx 1 souta souta  136 Apr 15 21:44 find_hello.sh*
+-rwxrwxrwx 1 souta souta   52 Apr 15 21:27 hello_all.sh*
+-rwxrwxrwx 1 souta souta   61 Apr 15 21:22 swap*
