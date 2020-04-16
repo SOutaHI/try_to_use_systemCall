@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+print "Your Name? : "
+n = gets.chomp
+print "Hello, #{n}!"
+print

@@ -1,0 +1,3 @@
+print "Your Name? : "
+n = gets.chomp
+puts "HEllo, #{n}!"
